@@ -1,6 +1,6 @@
 {
   "name": "ETEC",
-  "description": "Etec manutenção e venda de equipamentos para automação comercial. (Balanças, teclados, impressoras, terminais de consulta, gavetas, scanners, computadores). Orçamentos sem custos em 48 horas.",
+  "description": "Etec manutenção e venda de equipamentos para automação comercial. (Balanças, teclados, impressoras, terminais de consulta, gavetas, scanners, computadores). Orçamento em 48 horas. Recolhemos equipamentos na rodoviária e na Ceasa.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
