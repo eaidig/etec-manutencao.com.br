@@ -1,0 +1,6 @@
+{
+  "name": "Etec Automação Comercial",
+  "description": "Reparação ágil de automação comercial e balanças em Porto Alegre e Alvorada. Manutenção e calibração de balanças, impressoras térmicas e periféricos PDV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
